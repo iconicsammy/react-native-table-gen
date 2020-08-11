@@ -46,5 +46,6 @@
     "transformIgnorePatterns": [
       "node_modules/(?!((jest-)?react-native))"
     ]
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
